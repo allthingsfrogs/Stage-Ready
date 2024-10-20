@@ -1,0 +1,12 @@
+# requirements.txt
+flask
+requests
+hume
+python-dotenv
+moviepy
+flask-cors
+deepgram-sdk
+google-generativeai
+langchain
+langchain_core
+langchain_groq
