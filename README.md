@@ -24,5 +24,4 @@ One major thing we learned was using GitHub to collaborate with backend and fron
 Moving forward, we plan to enhance our application by refining the feedback mechanism. We want to introduce real-time analysis of their face expressions as well as prosody, so they can adjust accordingly during the presentation rather than after. Another feature we want to add is combining EVI with a live avatar. This will simulate interacting with a human who might nod along or acknowledge statements from the presenter throughout their talk.
 
 ### Demo
-[![Watch the video](![HumeAppThumbnail](https://github.com/user-attachments/assets/ae86f484-3af4-49f6-8bde-2d6a694d9fa2)
-)]([https://youtu.be/T-D1KVIuvjA](https://youtu.be/X6ClOymHh9o))
+![](https://youtu.be/X6ClOymHh9o)
