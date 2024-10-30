@@ -20,7 +20,7 @@ We're also proud of our ability to transcribe speech in real time and use Google
 ## What we learned
 One major thing we learned was using GitHub to collaborate with backend and frontend developers simultaenously. With one teammate new to hackathons, it was crucial to learn version control for easy management of our codebase. Despite not ultimately using it, we learned about natural language processing (NLP) with Google Gemini. One more thing we learned was how to integrate an AI model into our project with hume ai's face model. This experience emphasized the critical role that emotional awareness plays in effective communication and taught us to appreciate the nuances that come with empathic interactions.
 
-## What's next for Oratix
+## What's next for StageReady
 Moving forward, we plan to enhance our application by refining the feedback mechanism. We want to introduce real-time analysis of their face expressions as well as prosody, so they can adjust accordingly during the presentation rather than after. Another feature we want to add is combining EVI with a live avatar. This will simulate interacting with a human who might nod along or acknowledge statements from the presenter throughout their talk.
 
 ### Demo
